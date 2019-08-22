@@ -1,0 +1,27 @@
+{
+  "name": "harked-askbill-chatbot",
+  "version": "1.0.0",
+  "description": "chatbot to ask bill anything you want!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harked/askBill-chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "messenger"
+  ],
+  "author": "Randy Harkediansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harked/askBill-chatbot/issues"
+  },
+  "homepage": "https://github.com/harked/askBill-chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
